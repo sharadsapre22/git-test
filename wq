@@ -1,0 +1,93 @@
+[33mcommit 55a8288e72004c9729d942caaa663219e42726bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: d1fca4c 80aa89e
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Mon Feb 4 11:37:37 2019 +0530
+
+    Merge conflicts resolved
+
+[33mcommit d1fca4cbe04794f2a897148b75c690a1fe3a890d[m
+Author: Sharad Sapre <40269852+sharadsapre22@users.noreply.github.com>
+Date:   Mon Feb 4 11:26:06 2019 +0530
+
+    Line added in master branch through Github.
+
+[33mcommit 80aa89e549268e50877c8389af583609a6186fdb[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Mon Feb 4 11:24:05 2019 +0530
+
+    Changes added in dev branch through editor
+
+[33mcommit 58a3f70c9726233263efc5bd0b98223b8e4bc478[m
+Merge: 1439455 47a13ca
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 18:14:54 2019 +0530
+
+    final comment
+
+[33mcommit 14394552fcd5715c61d97fcc479f7f63bb13a4bd[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 18:09:07 2019 +0530
+
+    Line added through editor
+
+[33mcommit 47a13ca7a8f3fdc4183fd1a1b579d8990990183f[m
+Author: Sharad Sapre <40269852+sharadsapre22@users.noreply.github.com>
+Date:   Fri Feb 1 18:07:20 2019 +0530
+
+    File updated directly
+
+[33mcommit 2fddbe5c8691fe4f0c8da75b32a2dd84bade0163[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 18:05:47 2019 +0530
+
+    First line removed
+
+[33mcommit 3798e60d55951a61cdc11d7eef0c8aa9828afc83[m
+Author: Sharad Sapre <40269852+sharadsapre22@users.noreply.github.com>
+Date:   Fri Feb 1 18:00:20 2019 +0530
+
+    add.js file updated
+
+[33mcommit eb779b8214a2b6e6a423f626766513127d7b12dd[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 17:24:24 2019 +0530
+
+    Revert "Extra feature in subtraction"
+    
+    This reverts commit 877d2f86b09f5e7b7ef185b8478e93f13afa1096.
+
+[33mcommit 877d2f86b09f5e7b7ef185b8478e93f13afa1096[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 17:23:09 2019 +0530
+
+    Extra feature in subtraction
+
+[33mcommit 875682804b554742786740b821773395fa4279d8[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 17:08:59 2019 +0530
+
+    Modulus function added
+
+[33mcommit e7da4ea6fb6f289ec79489ca68a8dc2e85552809[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 16:57:33 2019 +0530
+
+    Add function comment added
+
+[33mcommit 66af7f7532115abff766967f2aed07766417d20f[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 16:37:08 2019 +0530
+
+    Division is available
+
+[33mcommit ef38f6bbe332e392b29e548b2cea2cf34bc9e8ec[m[33m ([m[1;31morigin/testing[m[33m)[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Fri Feb 1 16:21:32 2019 +0530
+
+    Multiply and Subtract functions available
+
+[33mcommit d26a031a3c3d817514aee1875444f1c4bc425765[m
+Author: Sharad Sapre <sharad.sapre@cytel.com>
+Date:   Thu Jan 31 16:42:17 2019 +0530
+
+    Initial Commit 1
